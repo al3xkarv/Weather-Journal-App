@@ -12,3 +12,11 @@ It is an asynchronous web app that uses Web API and user data to dynamically upd
    Example input for Enter Zipcode here : 94040,us
    Example input for How are you feeling today? : Whatever
 3. Click Generate.
+
+## Authors
+
+Alex Karvounis - al3xkarv
+
+## License
+
+This project is licensed under the GNU General Public License v3.0
