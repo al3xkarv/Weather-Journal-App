@@ -5,6 +5,13 @@
 This project is a requirement for Udacity's Front-End Nanodegree.
 It is an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
+## Built With
+
+* HTML
+* CSS
+* Javascript
+* Node.js
+
 ## Instructions
 
 1. Make sure you have Node.js installed and the required packages from npm.
