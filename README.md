@@ -22,7 +22,7 @@ It is an asynchronous web app that uses Web API and user data to dynamically upd
 
 ## Authors
 
-Alex Karvounis - al3xkarv
+Alex Karvounis - [al3xkarv](https://github.com/al3xkarv)
 
 ## License
 
